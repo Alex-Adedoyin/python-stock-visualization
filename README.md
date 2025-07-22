@@ -27,6 +27,10 @@ NVIDIA’s exceptional performance was treated carefully — showcased both with
 
 ---
 
+📎 [LinkedIn Profile](https://www.linkedin.com/in/adedoyinadeyemi)
+
+---
+
 ## 🧰 Setup Instructions
 
 1. Clone the repository or download the files
@@ -36,5 +40,3 @@ NVIDIA’s exceptional performance was treated carefully — showcased both with
 pip install -r requirements.txt
 
 ---
-
-📎 [LinkedIn Profile](https://www.linkedin.com/in/adedoyinadeyemi)
