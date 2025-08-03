@@ -2,7 +2,7 @@
 
 Welcome to a data-driven exploration of historical price movements across a diversified portfolio of 10 leading U.S. tech stocks, benchmarked against the S&P 500 Index.
 
-👉 **[Open the full analysis notebook](https://github.com/Alex-Adedoyin/python-stock-visualization/blob/main/a_diversified_stock_analysis)
+👉 **[Open the full analysis notebook](https://github.com/Alex-Adedoyin/python-stock-visualization/a_diversified_stock_analysis (1).ipynb)
 
 ---
 
