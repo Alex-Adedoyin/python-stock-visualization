@@ -62,3 +62,8 @@ GitHub may not display interactive Plotly charts. For each Plotly chart:
 
 ```bash
 pip install -r requirements.txt
+
+
+## 📇 Author
+
+📎 [Adedoyin Adeyemi Ojo](https://www.linkedin.com/in/adedoyinadeyemi)
