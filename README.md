@@ -8,9 +8,11 @@ Welcome to a data-driven exploration of historical price movements across a dive
 
 ## 🧠 Project Summary
 
-This project analyzes stock prices from 2015 to 2025. Prices are normalized (indexed to 1) to make comparisons meaningful across companies with different nominal price levels.
+This analysis evaluates best-in-class equities across the beta spectrum from 2015 to 2025, integrating both quantitative finance principles and robust Python automation. Historical data is sourced programmatically from yfinance, ensuring accuracy and replicability.
 
-Special attention is given to **NVIDIA’s outlier performance**, with separate visualizations including and excluding the stock, so that other companies’ growth isn’t visually compressed.
+Prices are normalized (indexed to 1) for cross-comparability, enabling meaningful performance benchmarking across assets with differing nominal price levels. NVIDIA’s exceptional growth trajectory is treated as a case study in outlier behavior, with dual visualizations—both inclusive and exclusive—to prevent distortion in peer performance analysis.
+
+A portfolio-level correlogram is generated to quantify diversification benefits, identify co-movement patterns, and highlight optimal combinations for risk-adjusted returns. The final deliverable bridges the gap between data science and investment insight, serving both technical and market-facing stakeholders.
 
 ---
 
